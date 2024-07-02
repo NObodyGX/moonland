@@ -11,6 +11,7 @@ include::01-background.adoc[]
 include::02-career.adoc[]
 include::03-skill.adoc[]
 include::04-equipment.adoc[]
+include::05-task.adoc[]
 
 :leveloffset: !
 
