@@ -1,0 +1,18 @@
+= 星月大陆 =
+
+NObodyGX <nobodygx@163.com>
+v0.1 2024.07.01
+
+星月大陆游戏开发说明书
+
+:leveloffset: 1
+
+include::01-background.adoc[]
+include::02-career.adoc[]
+include::03-skill.adoc[]
+include::04-equipment.adoc[]
+
+:leveloffset: !
+
+
+
